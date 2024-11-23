@@ -1,0 +1,65 @@
+    body {
+        font-family: Arial, sans-serif;
+        color: #333;
+    }
+
+    h2 {
+        color: #333;
+        text-align: center;
+    }
+
+    .user-info {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+
+    .font-18 {
+        font-size: 18px;
+        color: #333;
+    }
+
+    label {
+        font-size: 16px;
+        color: #333;
+    }
+
+    input[type="password"], input[type="text"] {
+        width: 30%;
+        padding: 10px;
+        margin: 5px 0 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    button {
+        background-color: #f39c12;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+    button:hover {
+        background-color: #e67e22;
+    }
+
+    .alert {
+        padding: 10px;
+        margin-top: 15px;
+    }
+
+    .alert-success {
+        background-color: #dff0d8;
+        color: #3c763d;
+    }
+
+    .alert-warning {
+        background-color: #f2dede;
+        color: #a94442;
+    }
+
+    .container {
+        margin: 50px;
+    }
